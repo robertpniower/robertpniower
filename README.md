@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Location:** Carrer de Rubió i Ors 18, 08041 Barcelona  
+**Location:** Carrer del Planeta 9a, 08290 Cerdanyola del Valles
 **Email:** robert-pniower@gmx.de · **Phone:** +34 680 42 61 06
 
 ---
@@ -35,61 +35,3 @@ My background in hospitality taught me **leadership, teamwork, adaptability, and
 - Attention to detail, patience, service orientation
 - Effective cross-functional communication
 
----
-
-## 💼 Experience (high level)
-
-**Delivery Hero — Software Development Intern** (03/2024 – 11/2024)  
-- Implemented end-to-end tests with WebdriverIO.  
-- Integrated tests into CI/CD pipelines.  
-- Applied software design patterns and worked across front- and backend stacks.
-
-**WBS — Software Development Training Program** (12/2022 – 12/2024)  
-- State-certified training as IT Specialist in Software Development.  
-- Built end-to-end applications with Java, React.js, Node.js.  
-- Learned system administration and software design principles.
-
-**Marley Spoon Berlin — Software Development Intern** (06/2022 – 09/2022)  
-- Built websites with HTML/CSS/JS and React.  
-- Rotated through frontend and backend teams and participated in daily standups.
-
-**Hospitality & additional roles**  
-- Head Chef, Spindler Restaurant Berlin — team leadership, operations, roster planning.  
-- Chef & Cuisine Trainer — recipe creation, culinary instruction.  
-- SharePoint frontend design for a local kindergarten project.
-
----
-
-## 🎓 Education & Bootcamps
-
-- **WBS — Software Development Apprenticeship** (State degree, 2-year program)  
-- **Le Wagon — Web Development & AI Bootcamp**  
-- Studies in Food Technology — Beuth Hochschule für Technik (no degree)  
-- Chef apprenticeship — State degree (Hotel Steigenberger, Berlin)
-
----
-
-## 🔗 Links
-
-- **Portfolio / Projects:** `./projects` (add your project links here)  
-- **Resume (PDF):** `./resume/Robert_Pniower_CV.pdf` (add file)  
-- **LinkedIn:** _add your LinkedIn URL here_
-
----
-
-## 📂 Repo structure (suggested)
-
-<!--
-**robertpniower/robertpniower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
