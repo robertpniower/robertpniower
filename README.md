@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 One-minute pitch
+## 🚀 About me
 
 Hi, my name is **Robert Pniower**. A few years ago, while managing a restaurant kitchen, I built a small tool to track inventory and schedules — and realised I enjoyed coding it more than running the kitchen. That’s when I decided to turn my passion for technology into a new career.
 
