@@ -19,6 +19,11 @@ My background in hospitality taught me **leadership, teamwork, adaptability, and
 
 ## 🧰 Key skills
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 **Programming & frameworks**
 - Java, C, Python
 - JavaScript, React.js, Node.js, HTML, CSS
