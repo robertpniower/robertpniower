@@ -1,11 +1,8 @@
 # Robert Pniower 
-## Full Stack Engineer
+## Full Stack Engine
 
-![Hero image](./assets/hero.png)
 
-**Location:** Carrer del Planeta 9a, 08290 Cerdanyola del Valles
-**Email:** robert-pniower@gmx.de · **Phone:** +34 680 42 61 06
-
+**Email:** robert-pniower@gmx.de
 ---
 
 ## 🚀 About me
